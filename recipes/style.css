@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titlename {
+    background-color: rgb(255, 242, 226);
+    font-size: 28px;
+    padding: 5px;
+    margin: 8px 0;
+}
+
+.cockname {
+    background-color: rgb(245, 204, 127);
+    font-size: 32px;
+    display: block;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+.ingredients {
+    background-color: rgb(197, 227, 236);
+    display: block;
+    padding: 5px;
+    margin: 8px 0;
+}
+
+.steps {
+    background-color: rgb(255, 242, 226);
+    display: block;
+    padding: 5px 5px;
+}
+
+.about {
+    background-color:rgb(255, 242, 226);
+    display: block;
+    padding: 5px 5px;
+}
